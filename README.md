@@ -21,16 +21,15 @@ Unlike traditional inventory systems, StockWise uses historical sales data to es
 
 ## Technology Stack
 
-| Component | Technologies |
-| Frontend | React.js, Vite |
-| Styling | Tailwind CSS |
-| Charts | Recharts |
-| Icons | Lucide React |
-| Backend | Node.js, Express.js |
-| Database | MongoDB Atlas |
-| ODM | Mongoose |
-| Authentication | JWT, bcrypt |
-| API Communication | Axios |
+Frontend - React.js, Vite 
+Styling - Tailwind CSS 
+Charts - Recharts 
+Icons - Lucide React 
+Backend - Node.js, Express.js 
+Database - MongoDB Atlas 
+ODM - Mongoose 
+Authentication - JWT, bcrypt 
+API Communication - Axios 
 
 ## Project Structure
 
